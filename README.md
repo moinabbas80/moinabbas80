@@ -151,7 +151,6 @@ Production-grade **on-site EasyPaisa checkout** — keeping users fully on the p
 - 🚨 Robust error handling & status reconciliation
 - ⚡ Vue.js reactive checkout UI
 
-🌐 **Live:** [View Project](https://lnkd.in/gHdhYFpx)
 
 </td>
 </tr>
@@ -230,12 +229,12 @@ Scalable SaaS architecture & deployment
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=baashna514&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baashna514&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=moinabbas80&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinabbas80&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=baashna514&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moinabbas80&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=baashna514&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=moinabbas80&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
